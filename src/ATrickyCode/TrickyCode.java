@@ -1,2 +1,4 @@
-package ATrickyCode;public class TrickyCode {
+package ATrickyCode;
+
+public class TrickyCode {
 }
