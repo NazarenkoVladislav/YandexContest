@@ -1,6 +1,6 @@
 <!DOCTYPE html>
   <head>
-      <h1> А. Хитрый шифр (Tricky Code) </h1>
+      <h1> А. Хитрый шифр </h1>
   </head>
   <body>
 		<table>
